@@ -1,0 +1,23 @@
+{
+  "name": "react-demo1",
+  "version": "1.0.0",
+  "description": "learning react firstly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoqianjie/react-demo1.git"
+  },
+  "keywords": [
+    "react",
+    "tab"
+  ],
+  "author": "Edward_c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caoqianjie/react-demo1/issues"
+  },
+  "homepage": "https://github.com/caoqianjie/react-demo1#readme"
+}
